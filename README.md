@@ -22,7 +22,7 @@ Puedes encontrarme en [Twitter](https://twitter.com/elonmusk). Estoy abierto a c
 
 ## 📈 Algunas Estadísticas
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DKNS-Usal&show_icons=true&theme=radical)](https://github.com/DKNS-Usal)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DKNS-JCC&show_icons=true&theme=radical)](https://github.com/DKNS-Usal)
 
 ¡Gracias por visitar mi perfil!
 
