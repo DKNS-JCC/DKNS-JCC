@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBtbXFwMGZnNDI1dnR6Ynp3M2gycnRqaDBxZzBkODI2MmtnaTdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="300">
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkns-jcc&theme=darkhub&no-frame=true&margin-w=15" alt="dkns-jcc" /></a>
 </p>
 
