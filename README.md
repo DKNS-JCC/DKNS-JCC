@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/dknsec" target="blank"><img src="https://img.shields.io/twitter/follow/dknsec?logo=twitter&style=for-the-badge" alt="dknsec" /></a>
+  <a href="https://twitter.com/darknessjcc" target="blank"><img src="https://img.shields.io/twitter/follow/dknsec?logo=twitter&style=for-the-badge" alt="dknsec" /></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -46,6 +46,6 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/dkns-jcc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210"></a>
+  <a href="https://www.buymeacoffee.com/dknsjcc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210"></a>
 </p>
 
