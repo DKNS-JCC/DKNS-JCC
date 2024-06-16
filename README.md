@@ -10,13 +10,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkns-jcc&theme=darkhub&no-frame=true&margin-w=15" alt="dkns-jcc" /></a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/darknessjcc" target="blank"><img src="https://img.shields.io/twitter/follow/dknsec?logo=twitter&style=for-the-badge" alt="dknsec" /></a>
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/dknsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dknsec" height="30" width="40" /></a>
+  <a href="https://twitter.com/darknessjcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dknsec" height="30" width="40" /></a>
   <a href="https://instagram.com/jorgecuadrado89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgecuadrado89" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/jorge-cuadrado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-cuadrado" height="30" width="40" /></a>
 </p>
