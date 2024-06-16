@@ -1,29 +1,17 @@
-# ¡Hola! Soy DKNS 👋
+<h1 align="center">Hi 👋, I'm DKNS</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkns-jcc&label=Profile%20views&color=a90eb4&style=flat-square" alt="dkns-jcc" /> </p>
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado por la programación y la tecnología, y aquí encontrarás algunos de mis proyectos.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkns-jcc" alt="dkns-jcc" /></a> </p>
 
-## 🚀 Habilidades y Tecnologías
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dknsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dknsec" height="30" width="40" /></a>
+<a href="https://instagram.com/jorgecuadrado89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgecuadrado89" height="30" width="40" /></a>
+</p>
 
-- Desarrollo Web: <p/>
-   [<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://developer.mozilla.org/es/docs/Web/HTML) 
-   [<img src="https://img.icons8.com/color/48/000000/css3.png"/>](https://developer.mozilla.org/es/docs/Web/CSS)
-- Lenguajes de Programación: <p/>
-   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="40"/>](https://www.learn-c.org/) 
-   [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" width="40"/>](https://www.java.com/)
-- Bases de Datos: <p/>
-   [<img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Database-Monitoring.component.complex-narrative-xl.ts=1692796840675.png/content/adobe-cms/es/es/products/instana/supported-technologies/azure-sql-database/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" width="100"/>](https://www.w3schools.com/sql/)
-- Control de Versiones: <p/>
-   [<img src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" width="40"/>](https://git-scm.com/) 
-   [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="40"/>](https://github.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-## 💬 Contáctame
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkns-jcc&show_icons=true&locale=en&layout=compact" alt="dkns-jcc" /></p>
 
-Puedes encontrarme en [Twitter](https://twitter.com/elonmusk). Estoy abierto a colaboraciones y proyectos.
-
-## 📈 Algunas Estadísticas
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DKNS-JCC&show_icons=true&theme=radical)](https://github.com/DKNS-Usal)
-
-¡Gracias por visitar mi perfil!
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkns-jcc&show_icons=true&locale=es" alt="dkns-jcc" /></p>
