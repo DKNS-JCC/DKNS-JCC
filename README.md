@@ -30,6 +30,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/es-es/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-plain.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
