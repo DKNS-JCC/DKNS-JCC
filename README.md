@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">A passionate software developer from Spain</h3>
+<h3 align="center">A passionate software developer from Salamanca</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkns-jcc&label=Profile%20views&color=a90eb4&style=flat-square" alt="dkns-jcc" />
