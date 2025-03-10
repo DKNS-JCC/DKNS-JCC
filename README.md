@@ -14,6 +14,8 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xelx69k8g5b33q1taicy9xvhr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=570ae6&bar_color_cover=true">
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/dkns-jcc/dkns-jcc/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkns-jcc&theme=darkhub&no-frame=true&margin-w=15" alt="dkns-jcc" /></a>
 </p>
