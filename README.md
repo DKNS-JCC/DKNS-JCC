@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">Genio atrapado en el cuerpo de un procrastinador con síndrome de Diógenes de proyectos</h3>
+<h3 align="center">Genio atrapado con síndrome de Diógenes de proyectos</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkns-jcc&label=Profile%20views&color=a90eb4&style=flat-square" alt="dkns-jcc" />
