@@ -36,10 +36,6 @@
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dkns-jcc&show_icons=true&locale=en&layout=compact" alt="dkns-jcc" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkns-jcc&show_icons=true&locale=en" alt="dkns-jcc" />
 </p>
