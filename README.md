@@ -36,14 +36,6 @@
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkns-jcc&show_icons=true&locale=en" alt="dkns-jcc" />
-</p>
-
-<h3 align="center">Recent Activities:</h3>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/dknsjcc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210"></a>
