@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">Genio en proceso diógenes de proyectos</h3>
+<h3 align="center">Genio con diógenes de proyectos</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkns-jcc&label=Profile%20views&color=a90eb4&style=flat-square" alt="dkns-jcc" />
@@ -10,11 +10,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBtbXFwMGZnNDI1dnR6Ynp3M2gycnRqaDBxZzBkODI2MmtnaTdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="300">
 </p>
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xelx69k8g5b33q1taicy9xvhr&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=570ae6&bar_color_cover=true">
-</p>
-
 ![Snake animation](https://raw.githubusercontent.com/dkns-jcc/dkns-jcc/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=dkns-jcc" alt="DKNS's GitHub stats" />
+  </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
