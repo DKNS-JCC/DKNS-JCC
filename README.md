@@ -1,72 +1,60 @@
-<h1 align="center">Hi 👋, I'm Jorge</h1>
-<h3 align="center">Genio con diógenes de proyectos</h3>
+# Jorge Cuadrado
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkns-jcc&label=Profile%20views&color=a90eb4&style=flat-square" alt="dkns-jcc" />
-  <img src="https://img.shields.io/github/followers/dkns-jcc?label=Followers" alt="followers">
-</p>
+Ingeniero Informático · Máster en Sistemas Inteligentes · Universidad de Salamanca
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBtbXFwMGZnNDI1dnR6Ynp3M2gycnRqaDBxZzBkODI2MmtnaTdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="300">
-</p>
+Construyo cosas que alguien usa después: apps, máquinas y herramientas.
 
-![Snake animation](https://raw.githubusercontent.com/dkns-jcc/dkns-jcc/output/github-contribution-grid-snake-dark.svg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=flat-square&logo=vercel&logoColor=white)](TU-DOMINIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-cuadrado)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jorgecuadradojcc@gmail.com)
+![Salamanca](https://img.shields.io/badge/Salamanca-262A3D?style=flat-square&logo=googlemaps&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=dkns-jcc" alt="DKNS's GitHub stats" />
-  </a>
-</p>
+<br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/darknessjcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dknsec" height="30" width="40" /></a>
-  <a href="https://instagram.com/jorgecuadrado89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgecuadrado89" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jorge-cuadrado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-cuadrado" height="30" width="40" /></a>
-</p>
+<table>
+<tr><td width="150"><b>Lenguajes</b></td><td><img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,cs,java"></td></tr>
+<tr><td><b>Desarrollo</b></td><td><img src="https://skillicons.dev/icons?i=vue,nextjs,nodejs,threejs,mysql,git,githubactions"></td></tr>
+<tr><td><b>Sistemas</b></td><td><img src="https://skillicons.dev/icons?i=linux,bash,ros,arduino,raspberrypi"></td></tr>
+</table>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  </a>
-  <a href="https://learn.microsoft.com/es-es/cpp/" target="_blank">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </a>
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  </a>
-  <a href="https://www.ros.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
-  </a>
-</p>
+## Proyectos
 
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dknsjcc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210"></a>
-</p>
+<table>
+<tr>
+<td width="200"><a href="https://github.com/DKNS-JCC/zonadron"><b>Zona Dron</b></a><br><img src="https://skillicons.dev/icons?i=ts,githubactions" height="28"></td>
+<td>Dónde se puede volar un dron en España, con las zonas UAS oficiales de ENAIRE. Android e iPhone, bilingüe, builds automáticas.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/DKNS-JCC/ArtecWeb"><b>ArtecWeb</b></a><br><img src="https://skillicons.dev/icons?i=js,ros,py" height="28"></td>
+<td>Robots guía de museo gestionados con modelos de lenguaje. TFG, <b>Matrícula de Honor</b>.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/DKNS-JCC/RePETeR"><b>RePETeR</b></a><br><img src="https://skillicons.dev/icons?i=cpp,arduino" height="28"></td>
+<td>Máquina que convierte botellas de PET en filamento para impresoras 3D. Electrónica, firmware y mecánica.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/DKNS-JCC/Portfolio"><b>Portfolio</b></a><br><img src="https://skillicons.dev/icons?i=nextjs,threejs,ts" height="28"></td>
+<td>Mi web es una placa de circuito en 3D: el scroll rutea la pista y cada componente se suelda al llegar.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/DKNS-JCC/kioskogj"><b>kioskogj</b></a><br><img src="https://skillicons.dev/icons?i=ts,vue" height="28"></td>
+<td>PWA de kiosco de campamento con saldos por usuario. En uso real cada verano.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ballaswag/guppyscreen/pull/164"><b>guppyscreen</b></a><br><img src="https://skillicons.dev/icons?i=cpp" height="28"></td>
+<td>Contribución a un proyecto ajeno: UI táctil para impresoras con Klipper. Helper de filamento en caliente y mejoras de interfaz.</td>
+</tr>
+</table>
 
+
+## Actividad
+
+<table>
+<tr>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DKNS-JCC&theme=github_dark"></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DKNS-JCC&theme=github_dark"></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://streak-stats.demolab.com?user=DKNS-JCC&theme=github-dark&hide_border=true&border_radius=8&ring=4F8A6B&fire=4F8A6B&currStreakLabel=4F8A6B"></td>
+</tr>
+</table>
